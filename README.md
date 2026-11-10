@@ -26,8 +26,8 @@ Tools: **MuJoCo** (the simulator), **PyTorch** (the learning).
 You need **Python 3.10 or newer**.
 
 ```bash
-git clone -b python-only https://github.com/BRAIR-Education/2026_MScBionics_Intro2RobotLearning.git
-cd 2026_MScBionics_Intro2RobotLearning/robot_learning_course
+git clone https://github.com/enridonato/2026_bionics_RLtutorial.git
+cd 2026_bionics_RLtutorial/robot_learning_course
 
 python -m venv .venv
 source .venv/bin/activate        # on Windows: .venv\Scripts\activate
